@@ -2,8 +2,13 @@ SPKZ's Keyswap Bot
 ======
 
 ---
-This is a Node.js steam bot which will automatically do key swapping like [this one](http://steam.monolidthz.com/KeyswapBot/) *but without server reporting functionality*  
+This is a Node.js steam bot which will automatically do key swapping  
+*but without server reporting functionality*  
 This is only tested on Windows!
+
+[More Information](http://steam.monolidthz.com/KeyswapBot/)  
+Donate to author: [Steam](https://steamcommunity.com/tradeoffer/new/?partner=64598450&token=UsbPhXjj) [Indiegogo Life](http://igg.me/at/hY2Fiyy7RH0)  
+*This software is 100% Free but you can donate if you want. For those who do that, thank you :)*
 
 ###Prerequisites
 * [Node.js](https://nodejs.org/)
