@@ -1,3 +1,8 @@
+MIT License
+=====
+
+SPKZ's Keyswap Bot is licensed under MIT.
+
 Copyright (c) 2015 Nut Inta (MoNoLidThZ)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
