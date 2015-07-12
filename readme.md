@@ -7,7 +7,7 @@ This is a Node.js steam bot which will automatically do key swapping
 This is only tested on Windows!
 
 [More Information](http://steam.monolidthz.com/KeyswapBot/)  
-Donate to author: [Steam](https://steamcommunity.com/tradeoffer/new/?partner=64598450&token=UsbPhXjj) [Indiegogo Life](http://igg.me/at/hY2Fiyy7RH0)  
+Donate to author: [![Click here to lend your support to: Nut's education & future and make a donation at pledgie.com !](https://pledgie.com/campaigns/29710.png?skin_name=chrome)](https://pledgie.com/campaigns/29710) or [Steam](https://steamcommunity.com/tradeoffer/new/?partner=64598450&token=UsbPhXjj)  
 *This software is 100% Free but you can donate if you want. For those who do that, thank you :)*
 
 ###Prerequisites
