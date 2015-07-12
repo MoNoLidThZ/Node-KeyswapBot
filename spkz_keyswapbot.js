@@ -46,7 +46,6 @@ if (fs.existsSync(logOnOptions.accountName+'.sentry')) {
 } else if (authCode != '') {
   logOnOptions['authCode'] = authCode;
 }
-delete fs;
 
 colors.setTheme({
   silly: 'rainbow',
@@ -145,7 +144,7 @@ steam.on('tradeOffers', function(number) {
 	checkTradeOffers();
 });
 steam.on('sentry', function(data) {
-  require('fs').writeFileSync(logOnOptions.accountName+'.sentry', data);
+  fs.writeFileSync(logOnOptions.accountName+'.sentry', data);
 });
 
 
