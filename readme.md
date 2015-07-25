@@ -1,6 +1,8 @@
 SPKZ's Keyswap Bot
 ======
 
+**Notice:** This version no longer works on node-steam v1.0 and are no longer supported. Because on my server still use v.0.6.8
+
 ---
 This is a Node.js steam bot which will automatically do key swapping  
 *but without server reporting functionality*  
@@ -15,7 +17,7 @@ Donate to author: [![Click here to lend your support to: Nut's education & futur
 * A Full Steam account (not limited account)
   * Have steam guard enabled for at least 15 day
   * Have Steam Community Public API Key **of your bot** (You can register one [here](http://steamcommunity.com/dev/apikey))
-* [node-steam](https://github.com/seishun/node-steam)
+* [node-steam](https://github.com/seishun/node-steam) **Will not work on v1.0.0 use v.0.6.8 only**
 * [node-steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers)
 * Node Module: [Colors](https://www.npmjs.com/package/colors)
 
